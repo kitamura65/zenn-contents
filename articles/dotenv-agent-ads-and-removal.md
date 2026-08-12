@@ -3,7 +3,7 @@ title: "dotenvが仕込んだ「AIエージェント向け広告」と、その�
 emoji: "🕵️"
 type: "tech"
 topics: ["dotenv", "nodejs", "npm", "ai", "claudecode"]
-published: false
+published: true
 ---
 
 最近はコードの記述やロジックの実装をかなりClaude Code(AIエージェント)に任せて開発を進めているのですが、先日AIが「出力ログに不審な行が含まれているよ」と教えてくれました。
