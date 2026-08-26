@@ -164,3 +164,7 @@ AIの調査結果は、たとえ自信満々な書き方をしていても、一
 - [vercel-labs/skills](https://github.com/vercel-labs/skills)
 - [Vercel: Introducing Skills](https://vercel.com/changelog/introducing-skills-the-open-agent-skills-ecosystem)
 - [BeMySlaveDarlin/cc-bootstrapper Issue #1](https://github.com/BeMySlaveDarlin/cc-bootstrapper/issues/1)
+
+## 関連記事
+
+- [Claude Codeのログで棚卸しする前に。その「直近1ヶ月」は選んだ期間じゃない](https://zenn.dev/kitamura65/articles/claude-code-log-audit-pitfalls) — AIが出力ログから見つけてくれた話でしたが、こちらは Claude Code 自身が書き出しているログを、自分で読みにいった話です。

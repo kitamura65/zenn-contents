@@ -204,3 +204,7 @@ APIに止めてもらう場合、こちらが何をしようが止まります�
 - [Method: users.messages.send](https://developers.google.com/workspace/gmail/api/reference/rest/v1/users.messages/send)
 - [Google Workspace アドオンのスコープ](https://developers.google.com/workspace/add-ons/concepts/workspace-scopes) — `gmail.addons.current.action.compose`の説明
 - [Request for drafts-only Gmail API scope for AI integrations](https://issuetracker.google.com/issues/442444733) — Google Issue Tracker(閲覧にGoogleアカウントでのサインインが必要です)
+
+## 関連記事
+
+- [Claude Codeのログで棚卸しする前に。その「直近1ヶ月」は選んだ期間じゃない](https://zenn.dev/kitamura65/articles/claude-code-log-audit-pitfalls) — この記事で触れている初期設定の作業そのものが、後日 Claude Code のセッションログを棚卸ししたときに「毎回やっているのに手順化していない作業」として浮かび上がりました。
