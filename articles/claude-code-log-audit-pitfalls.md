@@ -3,7 +3,7 @@ title: "Claude Codeのログで棚卸しする前に。その「直近1ヶ月」
 emoji: "🔍"
 type: "tech"
 topics: ["claudecode", "claude", "ai", "生成ai", "nodejs"]
-published: false
+published: true
 ---
 
 Claude Code の会話は、`~/.claude/projects/` にセッション1つにつき1ファイルで全文が残っています。ここを読めば「自分が実際に何を繰り返しているか」が分かるので、CLAUDE.md や Skill に何を書くべきかを勘ではなく実績で決められる——という話をちらほら見かけるようになりました。
